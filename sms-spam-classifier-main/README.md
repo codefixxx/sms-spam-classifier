@@ -28,5 +28,10 @@ It was originally sourced from [UCI Machine Learning Repository](https://archive
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/codefixxx/sms-spam-detection.git
+   git clone https://github.com/codefixxx/sms-spam-classifier.git
    cd sms-spam-detection
+
+---
+
+# To run
+run "streamlit run app.py" command in the terminal
